@@ -11,7 +11,7 @@ spec: # Dictionary
     metadata: # Dictionary
       name: myapp3-pod
       labels: # Dictionary
-        app: myapp3  # Key value paids
+        app: myapp3  # Key value pairs
     spec:
       containers: # List
         - name: myapp3-container
